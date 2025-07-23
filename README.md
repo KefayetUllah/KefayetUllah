@@ -6,32 +6,32 @@
 <h1 align="center">👋 Hi, I'm Kefayet Ullah!</h1>
 
 <p align="center">
-  🚀 App Developer | 👨‍💻 Future-Ready Tech Enthusiast | 🤖 AI/ML
+  🚀 App Developer | 👨‍💻 Future-Ready Tech Enthusiast | 🤖 AI/ML Explorer
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering (CSE)** student and a passionate **App Developer**, currently diving deep into **Flutter & Dart** to build high-performance mobile applications.
+I'm a **Computer Science & Engineering (CSE)** student and a passionate **App Developer**, currently diving deep into **Flutter & Dart** to build fast, beautiful, and functional mobile apps.
+Email Me: 👉 ✉️ kefayet107@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-### 🚀 My Interests:
-- 📱 **Cross-Platform App Development** with **Flutter**
-- 🤖 Integrating intelligent features using **AI/ML**
-- 🩺 Creating tech-driven solutions for **healthcare and social impact**
+### 🚀 Interests:
+- 📱 **Cross-Platform App Development** using Flutter
+- 🤖 Smart applications powered by **AI/ML**
+- 🏥 Tech solutions for **healthcare & social impact**
 
-### 🔧 What I'm Working On:
-- 👨‍⚕️ **DocuRx** – a prescription app with customizable templates for doctors
-- 📱 Learning **Flutter** through hands-on projects and mini apps
-- 📘 Studying:  
-  - **Operating Systems**  
-  - **Advanced Java Programming**  
+### 🔧 What I’m Working On:
+- 👨‍⚕️ **DocuRx** – A prescription app for doctors with customizable templates and multilingual support (Bangla + English)
+- 📱 Creating mini projects to master **Flutter widgets** and app architecture
+- 🎓 Subjects I’m learning:
+  - **Operating Systems**
+  - **Advanced Java**
   - **Algorithms & Problem Solving**
 
+💡 _I believe in learning by building. Always open to feedback, teamwork, and new ideas!_
+
 ---
-
-💡 _Learning by doing is my motto! Always open to collaboration and project ideas._
-
 
 ## 🛠️ Technologies & Tools
 
@@ -54,30 +54,41 @@ I'm a **Computer Science & Engineering (CSE)** student and a passionate **App De
 
 ## 🔭 Current Projects
 
-- 👨‍⚕️ **DocuRx** – A healthcare mobile app built with Flutter to manage prescriptions (PDF export, Bangla + English)
-- 📱 **Mini Flutter Projects** – Working on small apps like to-do lists, weather apps, and chat UIs to sharpen my Flutter skills
-- 🧠 **AI Integration** – Experimenting with ML models and APIs to add smart features to mobile apps
+- 👨‍⚕️ **DocuRx** – Healthcare app built in Flutter for managing patient prescriptions (PDF export, bilingual support)
+- 🔨 **Mini Flutter Apps** – Weather apps, to-do lists, calculator UI, etc.
+- 🧠 **ML-Powered Apps** – Using Python to integrate AI features into mobile apps (e.g., text recognition, sentiment analysis)
 
 ---
 
 ## 🌱 Learning Journey
 
-- 🔧 Building responsive UI and state management with **Flutter (BLoC/Provider)**
-- 🤖 Exploring **ML models** with Python and integrating them with mobile apps
-- 📚 Currently studying:  
-  - **Operating Systems**  
-  - **Advanced Java Programming**  
-  - **Algorithms**
+- 🧱 Mastering UI/UX design and **state management** (Provider, BLoC)
+- 🤖 Integrating Python-based ML models into mobile apps
+- 📘 Subjects:
+  - Operating Systems
+  - Advanced Java Programming
+  - Algorithms
 
 ---
 
-💬 *Let’s connect and build awesome mobile experiences together!*
+<!-- Social Links Section -->
+<div style="text-align:center; font-family: Arial, sans-serif; margin: 20px 0;">
+  <h2>📫 How to reach me:</h2>
+  <p>
+    <a href="https://www.instagram.com/kefusssh_/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/kefayet-ullah-b6baa2271/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/@kefayetullah007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+    </a>
+  </p>
+</div>
 
-
-## 📫 How to reach me
-
-- 📧 [Email](mailto:mehedihasanshipat4@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-shifat-87870a23b/)
 
 ---
 
